@@ -1,0 +1,28 @@
+{
+    "tests": [
+        {
+            "description": "the solve method produces a valid solution.",
+            "traceback": "Traceback (most recent call last):\n__utils.rlimit.<locals>.TimeoutException\n\nDuring handling of the above exception, another exception occurred:\n\nAssertionError: The test was stopped because your function ran for more than 30 seconds during execution\n",
+            "message": "The test was stopped because your function ran for more than 30 seconds during execution",
+            "advice": "Try your code on the following example:\n.16.9........57..6........3..9......2......6..8..4........6..........6.....1..94.\n",
+            "result": "F",
+            "rubric_item_id": "5530"
+        },
+        {
+            "description": "the naked_twins method applies the 'naked twins' heuristic.",
+            "traceback": "",
+            "message": null,
+            "advice": null,
+            "result": ".",
+            "rubric_item_id": "5531"
+        },
+        {
+            "description": "the README has been modified.",
+            "traceback": "",
+            "message": null,
+            "advice": null,
+            "result": ".",
+            "rubric_item_id": null
+        }
+    ]
+}
